@@ -1,23 +1,14 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="FXgE6E-MZk_j_rmoxDdv">
-    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--20" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="360" width="230" x="45" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--3" connectable="0" parent="ZIGaCsEUKhFDZSBVBFL--20" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="230" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--2" parent="ZIGaCsEUKhFDZSBVBFL--3" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="230" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--1" parent="ZIGaCsEUKhFDZSBVBFL--3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 1 : &lt;br&gt;SETUP &amp;amp; CONFIGURATION" vertex="1">
-          <mxGeometry height="24" width="200" x="15" y="8" as="geometry" />
-        </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--4" connectable="0" parent="ZIGaCsEUKhFDZSBVBFL--20" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="230" y="80" as="geometry" />
+          <mxGeometry height="40" width="230" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--5" parent="ZIGaCsEUKhFDZSBVBFL--4" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="230" as="geometry" />
@@ -26,25 +17,22 @@
           <mxGeometry height="24" width="200" x="15" y="8" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--7" connectable="0" parent="ZIGaCsEUKhFDZSBVBFL--20" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="230" y="160" as="geometry" />
+          <mxGeometry height="40" width="230" y="184" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--8" parent="ZIGaCsEUKhFDZSBVBFL--7" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="230" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--9" parent="ZIGaCsEUKhFDZSBVBFL--7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 3 :&lt;br&gt;WAREHOUSE &amp;amp; FULFILLMENT SETUP" vertex="1">
-          <mxGeometry height="24" width="240" x="-4" y="8" as="geometry" />
+          <mxGeometry height="24" width="230" x="-4" y="8" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--10" connectable="0" parent="ZIGaCsEUKhFDZSBVBFL--20" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="230" y="240" as="geometry" />
+          <mxGeometry height="40" width="230" y="320" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--11" parent="ZIGaCsEUKhFDZSBVBFL--10" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="230" as="geometry" />
         </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--12" parent="ZIGaCsEUKhFDZSBVBFL--10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 4 :&lt;br&gt;TESTING &amp;amp; UAT" vertex="1">
-          <mxGeometry height="24" width="240" x="-4" y="8" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--16" edge="1" parent="ZIGaCsEUKhFDZSBVBFL--20" source="ZIGaCsEUKhFDZSBVBFL--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZIGaCsEUKhFDZSBVBFL--5" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--12" parent="ZIGaCsEUKhFDZSBVBFL--10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 4 :&lt;br&gt;TESTING &amp;amp; User Acceptance Testing" vertex="1">
+          <mxGeometry height="24" width="230" x="-4" y="8" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--17" edge="1" parent="ZIGaCsEUKhFDZSBVBFL--20" source="ZIGaCsEUKhFDZSBVBFL--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZIGaCsEUKhFDZSBVBFL--8" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -52,38 +40,36 @@
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--18" edge="1" parent="ZIGaCsEUKhFDZSBVBFL--20" source="ZIGaCsEUKhFDZSBVBFL--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZIGaCsEUKhFDZSBVBFL--11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZIGaCsEUKhFDZSBVBFL--22" value="">
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--21" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--2" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ZIGaCsEUKhFDZSBVBFL--22" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="40" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="160" y="200" as="sourcePoint" />
             <mxPoint x="280" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Stage 1 (资料)&lt;/div&gt;a. 开通Shopify Store, 选择Theme&lt;br&gt;b. 设置支付网关 (Payment Gateway)&lt;div&gt;c. 设置物流运输规则 (Shipping Rates, 东马西马）&lt;/div&gt;&lt;div&gt;d. 确定商业模式 （自营库存还是代理销售)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="280" x="360" as="geometry" />
+          <mxGeometry height="80" width="360" x="360" y="100" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Stage 2 (怎么防超卖or分开Online和Normal)&lt;/div&gt;a. 创建SKU体系: 为产品加上新的编号(OS) 比如&amp;nbsp; &quot;OS - A1N141Y&quot;&lt;div&gt;b. 设定虚拟库存: Real有50个,but OS 我们放大约10-20就好.&lt;br&gt;c. 产品数据上传: 资料(车型，分类，价格，照片)导入 Shopify.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="360" x="360" y="250" as="geometry" />
+          <mxGeometry height="80" width="360" x="360" y="236" as="geometry" />
         </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--24" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--5" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZIGaCsEUKhFDZSBVBFL--23" value="">
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--24" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--5" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZIGaCsEUKhFDZSBVBFL--23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="260" y="350" as="sourcePoint" />
             <mxPoint x="310" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Stage 3 (仓库与物流工作流布署)&lt;/div&gt;a. 规划货架: 在现有的货架准备出专属的 Online Rake.&lt;div&gt;b. 硬件装备: 普通的A4打印机&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;拣货单&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, + 4x6 热敏打印机 (快递单)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;c. 安装快递集成App( Delyva, EasyParcel // 各种Shopify插件)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="360" x="360" y="340" as="geometry" />
+          <mxGeometry height="80" width="360" x="360" y="371" as="geometry" />
         </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--26" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--8" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.44;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZIGaCsEUKhFDZSBVBFL--25" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="275" y="381" as="sourcePoint" />
             <mxPoint x="360" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZIGaCsEUKhFDZSBVBFL--27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Stage 4&lt;/div&gt;a. 规划货架: 在现有的货架准备出专属的 Online Rake.&lt;div&gt;b. 硬件装备: 普通的A4打印机&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(&lt;/span&gt;拣货单&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, + 4x6 热敏打印机 (快递单)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;c. 安装快递集成App( Delyva, EasyParcel // 各种Shopify插件)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="360" x="360" y="430" as="geometry" />
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Stage 4 (确保从“顾客下单 打印 A4 拣货&amp;nbsp;旧系统开单 &amp;nbsp;打包发货”整个闭环没有漏洞。)&lt;/div&gt;a.&amp;nbsp;在 Shopify 做几笔“测试订单（Test Orders）”&lt;br&gt;&lt;div&gt;b.&amp;nbsp;让仓库人员按照 A4 拣货单去 Online Rake 找零件&lt;/div&gt;&lt;div&gt;c.&amp;nbsp;测试热敏打印机打印运单是否正常&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="360" x="360" y="510" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--13" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="230" x="45" y="680" as="geometry" />
@@ -92,10 +78,40 @@
           <mxGeometry height="40" width="230" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--15" parent="ZIGaCsEUKhFDZSBVBFL--13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 5 :&lt;br&gt;LAUNCH &amp;amp; MARKETING" vertex="1">
-          <mxGeometry height="24" width="240" x="-4" y="8" as="geometry" />
+          <mxGeometry height="24" width="230" x="-4" y="8" as="geometry" />
         </mxCell>
         <mxCell id="ZIGaCsEUKhFDZSBVBFL--19" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZIGaCsEUKhFDZSBVBFL--14" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lX7kjpytUcCugH3dKQIa-1" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--12" style="endArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.019;exitY=0.486;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZIGaCsEUKhFDZSBVBFL--27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="540" as="sourcePoint" />
+            <mxPoint x="465" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="230" x="45" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--2" parent="ZIGaCsEUKhFDZSBVBFL--3" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--1" parent="ZIGaCsEUKhFDZSBVBFL--3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 1 : &lt;br&gt;SETUP &amp;amp; CONFIGURATION" vertex="1">
+          <mxGeometry height="24" width="200" x="15" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIGaCsEUKhFDZSBVBFL--16" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZIGaCsEUKhFDZSBVBFL--5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lX7kjpytUcCugH3dKQIa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;Stage 5 (网站正式对公众开放，开始获取流量和订单)&lt;/div&gt;a.&amp;nbsp;网站正式上线（Go-Live）&lt;div&gt;b.&amp;nbsp;开始进行社交媒体宣传、Google Ads 或 Facebook 广告投放&lt;/div&gt;&lt;div&gt;c.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;密切监控 &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ROI（投资回报率）&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 和客户好感度(Customer Feedback），准备进入长期的运营和 Phase 2（系统自动对接）的升级&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="400" x="360" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="lX7kjpytUcCugH3dKQIa-3" edge="1" parent="1" source="ZIGaCsEUKhFDZSBVBFL--15" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.02;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" target="lX7kjpytUcCugH3dKQIa-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="700" as="sourcePoint" />
+            <mxPoint x="416" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lX7kjpytUcCugH3dKQIa-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;b&gt;&lt;u&gt;Delyva || EasyParcel&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;div&gt;它们是“聚合平台”。只需要把 Shopify 账号连接到 EasyParcel 或 Delyva，当顾客在网站下单后，这个 App 会把订单信息自动同步过去。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- 可以在一个后台里面对比所有快递公司的运费，选择最便宜或最快的寄出。&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 可以直接在 Shopify 后台一键下单、叫上门收件（Pick-up）或者打印 4x6 的运单。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 省去手动去每一家快递公司的网站（比如一个一个去 J&amp;amp;T Portal）输入顾客地址的麻烦。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;自动抓取地址：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 顾客在 Shopify 填好收货地址后，这些软件会自动带入，不会发生人工手抄地址写错、导致汽车零件寄错地方的问题。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;配合你的热敏打印机：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; 通过这些软件，你可以直接用你提到的 4x6 热敏打印机，一键打印出标准的快递运单（Airway Bill）贴在零件纸箱上。&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="213" width="410" x="758" y="307" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
